@@ -1,0 +1,10 @@
+credential.helper=!aws codecommit credential-helper $@
+credential.usehttppath=true
+core.editor=nano
+user.name=設定したいユーザー名をここに入力してください
+user.email=設定したいメールアドレスをここに入力してください
+credential.helper=!aws codecommit credential-helper $@
+credential.usehttppath=true
+core.editor=nano
+user.name=設定したいユーザー名をここに入力してください
+user.email=設定したいメールアドレスをここに入力してください
